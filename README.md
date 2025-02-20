@@ -28,5 +28,5 @@ Analyze customer spending patterns based on **income levels, product preferences
 
 ## Tools Used  
 - **Tableau** – Data visualization & dashboard creation  
-- **Excel** – Data cleaning & preparation  
+
 
