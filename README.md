@@ -1,7 +1,19 @@
 # Customer Spending & Segmentation Analysis – Tableau Dashboard  
 
+## Project Overview  
+This project analyzes customer spending behavior using an interactive Tableau dashboard.  
+The dataset includes details such as **age, gender, income, spending score, membership years, purchase frequency, preferred category, and last purchase amount**.  
+The goal was to identify spending patterns, segment customers, and generate actionable insights for marketing and business strategy.  
+
+The project demonstrates the complete analytics workflow — from data cleaning and transformation in Tableau to visual storytelling and insight generation.  
+
 ## Objective  
-Analyze customer spending patterns based on **income levels, product preferences, and retention trends** to provide actionable business insights.  
+To analyse and visualise customer spending patterns based on **income levels, product preferences, and retention trends** to provide actionable business insights.
+The dashboard aims to answer key business questions such as:  
+- How does income affect spending?  
+- Which product categories attract high-spending customers?  
+- Do long-term customers spend more over time?  
+- How can businesses segment customers for targeted marketing?  
 
 ---
 
@@ -16,13 +28,7 @@ Analyze customer spending patterns based on **income levels, product preferences
 - Home & Garden brands may need seasonal promotions to increase engagement.  
 - Loyalty programs could help prevent drop-offs after Year 8.  
 
----
-
-## Files in This Repository  
-
-**Customer_Segmentation.twbx** → Tableau Workbook  
-**Visualizations/** → Contains key charts (Spending Score by Income, Purchase Frequency, etc.).  
-**Project_Report.pdf** (Optional) → Detailed breakdown of insights  
+--- 
 
 ---
 
