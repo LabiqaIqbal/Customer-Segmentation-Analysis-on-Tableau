@@ -30,8 +30,6 @@ The dashboard aims to answer key business questions such as:
 
 --- 
 
----
-
 ## Tools Used  
 - **Tableau** – Data visualization & dashboard creation  
 
